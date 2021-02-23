@@ -3,3 +3,7 @@
 ################################################################################
 
 /.vs
+/Android.Commom/bin
+/Android.Commom/obj
+/Common.Tools/bin
+/Common.Tools/obj
